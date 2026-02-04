@@ -7,17 +7,17 @@ A starter for creating a TypeScript package.
 - Install dependencies:
 
 ```bash
-npm install
+pnpm install
 ```
 
 - Run the unit tests:
 
 ```bash
-npm run test
+pnpm test
 ```
 
 - Build the library:
 
 ```bash
-npm run build
+pnpm build
 ```
